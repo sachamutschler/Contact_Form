@@ -1,5 +1,5 @@
 # Contact_Form
-Formulaire de contact en PHP utilisant la fonction mailto.
+Formulaire de contact en PHP utilisant la fonction mail.
 
 Attention.
 
